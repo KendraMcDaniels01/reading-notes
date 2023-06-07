@@ -1,4 +1,7 @@
 # Reading Notes
-_Collection of notes keeping track of my observations and questions from reading assignments_ :smile:
+_Collection of reading notes from assignments keeping track of my:
+  -observations 
+  -questions_ 
+  -:smile:
 ## Code 201 - Foundations of Software Development
 
