@@ -133,21 +133,13 @@
     Alternatively, JavaScript code can be stored in an external file with the .js filename extension.
     To include an external JavaScript file, use the <script> element with the src attribute.
     The src attribute specifies the path to the external JavaScript file.
-Examples:
+      Examples:
+      Inline JavaScript within <script> tags:
+      <script>
+        // JavaScript code here
+      </script>
 
-Inline JavaScript within <script> tags:
+      External JavaScript file inclusion:
+      <script src="script.js"></script>
 
-html
-
-<script>
-  // JavaScript code here
-</script>
-
-
-External JavaScript file inclusion:
-
-html
-
-<script src="script.js"></script>
-
-
+## Things I want to know more about
