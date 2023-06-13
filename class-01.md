@@ -104,7 +104,7 @@
 
 **1) Why should you use an \<h1> element over a \<span> element to display a top level heading?**
   When displaying a top-level heading on a webpage, it is recommended to use the \<h1> element.
-  The <h1> element is a semantic HTML element that assigns the role of a top-level heading to the content within it.
+  The \<h1> element is a semantic HTML element that assigns the role of a top-level heading to the content within it.
   Semantics refer to the meaning and structure of HTML elements, allowing search engines and assistive technologies to understand the purpose and hierarchy of the content.
   Although the visual appearance of \<span> can be modified to resemble a header, it lacks the semantic significance provided by the \<h1> element.
   Search engines and other readers of the code rely on semantic elements like \<h1> to understand the structure and importance of the content.
