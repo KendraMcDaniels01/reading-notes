@@ -24,15 +24,22 @@ requesting only the essential data you truly require.
 ## Learn JS
 
 **1) How would you describe events?**
-
+Events in JavaScript provide the means to create interactive and 
+responsive websites for users actions and other occurrences in the browser. 
 
 **2) When using the addEventListener() method, what 2 arguments will you need to provide?**
-
+* Event Type:'click', 'keydown', 'mouseover', 'submit', 'load', 'scroll'
+* Callback Function: a function that will be executed when the specified event occurs
  
 **3) Describe the event object. Why is the target within the event object useful?**
-
+when an event is triggered, the browser automatically creates an "event 
+object." This object contains information about the event that occurred.
 
 **4) What is the difference between event bubbling and event capturing?**
-                                                         
+Event Bubbling: 
+ * default behavior
+ * allows you to handle events on both the target element and its parents
+Event Capturing:
+ * event is first captured at the root of the document
   
 ## Things I want to know more about
