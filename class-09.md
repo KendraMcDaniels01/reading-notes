@@ -14,11 +14,11 @@ To ensure a positive experience, prioritize simplicity and focus by
 requesting only the essential data you truly require.
 
 **3) List 5 form elements and explain their importance.**
-* "<form>": It serves as a container for various form elements 
-* <label>: represents a label for other form elements
-* <input>: used to create various types of input fields within a form
-* <textarea>: for cases where users need to provide more text
-* <button>:  used in conjunction with JavaScript to perform specific functions when clicked
+* /<form>: It serves as a container for various form elements 
+* /<label>: represents a label for other form elements
+* /<input>: used to create various types of input fields within a form
+* /<textarea>: for cases where users need to provide more text
+* /<button>:  used in conjunction with JavaScript to perform specific functions when clicked
       
      
 ## Learn JS
