@@ -1,4 +1,4 @@
-# class- Reading Notes
+# class-12 Reading Notes
 
 ## [JavaScript Canvas](https://www.javascripttutorial.net/web-apis/javascript-canvas/)
 
